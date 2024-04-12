@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>C__Coding_Excercise.FibonacciNumbers</StartupObject>
+    <StartupObject>C__Coding_Excercise.SearchingInList</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
