@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>C__Coding_Excercise._8_Pattern_2</StartupObject>
+    <StartupObject>C__Coding_Excercise._9_Pattern_3</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -53,6 +53,7 @@
     <Compile Include="6_PrimeNumber.cs" />
     <Compile Include="7_Pattern-1.cs" />
     <Compile Include="8_Pattern-2.cs" />
+    <Compile Include="9_Pattern-3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="3_SearchingInList.cs" />
   </ItemGroup>
