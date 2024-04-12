@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>C__Coding_Excercise.SearchingInList</StartupObject>
+    <StartupObject>C__Coding_Excercise._4_ListSorting</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="2_ModifyList.cs" />
     <Compile Include="1_Program.cs" />
+    <Compile Include="4_ListSorting.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="3_SearchingInList.cs" />
   </ItemGroup>
