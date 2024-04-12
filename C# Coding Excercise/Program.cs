@@ -10,6 +10,7 @@ namespace C__Coding_Excercise
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
         }
     }
 }
