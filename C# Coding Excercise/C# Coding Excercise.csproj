@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>C__Coding_Excercise._4_ListSorting</StartupObject>
+    <StartupObject>C__Coding_Excercise.FibonacciNumbers</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,6 +49,7 @@
     <Compile Include="2_ModifyList.cs" />
     <Compile Include="1_Program.cs" />
     <Compile Include="4_ListSorting.cs" />
+    <Compile Include="5_FibonacciNumbers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="3_SearchingInList.cs" />
   </ItemGroup>
