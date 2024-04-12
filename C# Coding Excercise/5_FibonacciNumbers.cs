@@ -10,10 +10,13 @@ namespace C__Coding_Excercise
     {
         static void Main(string[] args)
         {
-            //Finding out fibonacci number upto 15th place
+            //Finding out fibonacci number upto nth place
             var fibonacciNumbers = new List<int> { 1, 1 };
-            
-            while(fibonacciNumbers.Count <= 15)
+            Console.Write("Enter fibonacci number's place: ");
+            string input = Console.ReadLine();
+            int nthPlace = int.Parse(input);
+
+            while (fibonacciNumbers.Count <= nthPlace)
             {
                 var previous = fibonacciNumbers[fibonacciNumbers.Count - 1];
                 var previous2 = fibonacciNumbers[fibonacciNumbers.Count - 2];
@@ -22,9 +25,17 @@ namespace C__Coding_Excercise
 
             foreach(var number in fibonacciNumbers)
             {
-                Console.WriteLine(number);
+                Console.Write($" {number}");
             }
+            Console.WriteLine();
         }
 
     }
 }
+/* Sample Input:
+   Enter fibonacci number's place: 6
+   Output:
+   1 1 2 3 5 8 13
+   Enter fibonacci number's place: 8
+   1 1 2 3 5 8 13 21 34
+ */
