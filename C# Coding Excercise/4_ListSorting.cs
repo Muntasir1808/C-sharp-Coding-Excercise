@@ -20,3 +20,6 @@ namespace C__Coding_Excercise
         }
     }
 }
+/*Output: 
+ apple banana berry coconut litchi mango
+ */
