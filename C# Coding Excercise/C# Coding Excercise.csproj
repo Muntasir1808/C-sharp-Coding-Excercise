@@ -46,8 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="2_ModifyList.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="ModifyList.cs" />
+    <Compile Include="1_Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="3_SearchingInList.cs" />
   </ItemGroup>
