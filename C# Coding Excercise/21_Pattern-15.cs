@@ -47,3 +47,15 @@ namespace C__Coding_Excercise
         }
     }
 }
+/*
+Sample Input:
+Enter number of rows: 4
+Ouput:
+      *
+    ***
+  *****
+*******
+  *****
+    ***
+      *
+ */
