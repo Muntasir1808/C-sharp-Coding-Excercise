@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>C__Coding_Excercise._11_Pattern_5</StartupObject>
+    <StartupObject>C__Coding_Excercise._12_Pattern_6</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="10_Pattern-4.cs" />
     <Compile Include="11_Pattern-5.cs" />
+    <Compile Include="12_Pattern-6.cs" />
     <Compile Include="2_ModifyList.cs" />
     <Compile Include="1_Program.cs" />
     <Compile Include="4_ListSorting.cs" />
